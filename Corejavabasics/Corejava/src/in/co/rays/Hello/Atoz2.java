@@ -1,0 +1,16 @@
+package in.co.rays.Hello;
+
+public class Atoz2 {
+	public static void main(String[] args) {
+		 
+		char i;
+		 
+		 for (i='A'; i<='Z'; i++) {
+			 
+			 System.out.print(i);
+			 System.out.print(" ");
+		 }
+	}
+}
+
+

@@ -1,0 +1,11 @@
+package in.co.rays.Hello;
+
+public class SecondLargest2 {
+	public static void main(String[] args) {
+		
+		int [] arr= {50,55,65,60};
+		
+	int a=0;
+	int b= 0;
+	
+	

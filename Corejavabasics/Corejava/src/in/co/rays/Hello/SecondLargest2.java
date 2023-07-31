@@ -1,0 +1,33 @@
+package in.co.rays.Hello;
+
+public class SecondLargest2 {
+	public static void main(String[] args) {
+		
+		int [] arr= {50,55,65,60};
+		
+	int a=0;
+	int b=0;
+	 for(int i=0; i<arr.length;i++)  {
+		 if (arr[i]>b);
+		 b=arr[i];
+		 
+		 
+		 
+		 if(arr[i]>b && arr[i]<a)  {
+			 if(arr[i]>a);
+			 a=arr[i];
+		 }
+	 }
+	
+	 
+	 System.out.println(b);
+	
+	
+	}
+	
+	
+	
+	
+	}
+	
+	

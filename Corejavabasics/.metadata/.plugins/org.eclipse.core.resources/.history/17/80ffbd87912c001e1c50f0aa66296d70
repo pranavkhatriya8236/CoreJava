@@ -1,0 +1,11 @@
+package in.co.rays.Hello;
+
+public class Pranav10 {
+	
+	public static void main(String[] args) {
+		
+		 String name = "Vijay Dinanath Chauhan ";
+		 
+		 System.out.println("Ends with han-"+name.endsWith("han"));
+	}
+}
